@@ -14,7 +14,7 @@ I'm a sophomore at The College of Wooster, pursuing a **Bachelor of Arts in Comp
 - **AI/ML applications** in finance and technology
 
 ## 📫 How to Reach Me
-- 📧 Email: abhinav.randive@example.com  
+- 📧 Email: arandive27@wooster.edu
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-randive/)  
 - 🏆 [GitHub](https://github.com/Abhinav-Randive)
 
