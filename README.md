@@ -54,5 +54,3 @@ React Native • Flask • Firebase • Linux • Git
 
 - LinkedIn: https://www.linkedin.com/in/abhinav-randive/
 - Email: arandive27@wooster.edu
-
-> Build things that compound.
